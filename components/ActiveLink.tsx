@@ -1,7 +1,8 @@
 import Link from "next/link";
 import { useRouter } from "next/router";
+import { CSSProperties } from "react";
 
-const style = {
+const style: CSSProperties = {
   color: "blue",
 };
 

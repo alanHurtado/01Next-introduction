@@ -1,4 +1,3 @@
-import type { NextPage } from "next";
 import Link from "next/link";
 import { ReactElement } from "react";
 import { DarkLayout } from "../components/layouts/DarkLayout";
